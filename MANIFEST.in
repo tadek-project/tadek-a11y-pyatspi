@@ -1,0 +1,7 @@
+include AUTHORS
+include CONTRIBUTION_AGREEMENT.pdf
+include LICENSE
+include README
+
+include src/a11ypyatspi.py
+
